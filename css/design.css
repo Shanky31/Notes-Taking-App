@@ -1,0 +1,10 @@
+.hand{
+    cursor: pointer;
+}
+body{
+    background-color:rgb(151, 156, 199);
+}
+.header{
+ background-color: rgb(16, 16, 62);
+ color: white;
+}
